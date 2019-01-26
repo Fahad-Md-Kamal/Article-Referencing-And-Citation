@@ -13,14 +13,17 @@ It was a beginners level testing software.
 7. Iterations
 8. Differnt types of Classes.
 7. Objects
-8. Working with Database and data in C#.
+8. Working with arrays.
 9. Parameter passing and setting.
-10. Working with arrays.
-11. Delegates(Even though it wasn't used in this project)
+10. Delegates(Even though it wasn't used in this project)
 
 # OOP - Object Oriented Programming
 1. Encapsulation
 2. Inheritance
 3. Polymorphism
+
+# Connecting Database to the project of C#.
+The project was connected with the database which was created in the local matchine for the prototype's working efficiency test.
+
 
 #N.B: It was a beginners level project and the whole project had to done in 3 months including the learning C# and Object oriented programming.
