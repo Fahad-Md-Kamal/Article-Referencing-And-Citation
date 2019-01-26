@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticalReferencingAndCitation", "ArticalReferencingAndCitation\ArticalReferencingAndCitation.csproj", "{17962EBB-B27E-43E2-BB62-99D23313DF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL_ApplicationModels", "CL_ApplicationModels\CL_ApplicationModels.csproj", "{056F5666-464A-4C97-9B31-654ECDD39B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17962EBB-B27E-43E2-BB62-99D23313DF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17962EBB-B27E-43E2-BB62-99D23313DF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17962EBB-B27E-43E2-BB62-99D23313DF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17962EBB-B27E-43E2-BB62-99D23313DF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056F5666-464A-4C97-9B31-654ECDD39B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056F5666-464A-4C97-9B31-654ECDD39B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056F5666-464A-4C97-9B31-654ECDD39B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056F5666-464A-4C97-9B31-654ECDD39B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
