@@ -20,7 +20,7 @@ It was a beginners level testing software.
 
 # OOP - Object Oriented Programming
 1. Encapsulation
-2. inheritance
+2. Inheritance
 3. Polymorphism
 
 #N.B: It was a beginners level project and the whole project had to done in 3 months including the learning C# and Object oriented programming.
