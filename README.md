@@ -1,6 +1,4 @@
 # Article Referencing And Citation-app (C# project)
-Assignment for university course. The application was built with the target to check how efficiently we could code program using C#.
-It was a beginners level testing software.
 
 
 # What have I learnt 
